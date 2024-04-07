@@ -26,17 +26,11 @@ Execute the programs and publish them.
 
 ## CODE
 <!DOCTYPE html>
-
 <html lang="en">
-
 <head>
-
     <meta charset="UTF-8">
-
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <title>Document</title>
-
 </head>
 
 
@@ -45,15 +39,10 @@ Execute the programs and publish them.
 <script>
 
     function coordinate(event) { 
-
         let x = event.clientX;
-
         let y = event.clientY;
-
         document.getElementById("text1").value = x;
-
         document.getElementById("text2").value = y;
-
     }
 
 </script>
@@ -62,7 +51,6 @@ Execute the programs and publish them.
 <body>
      
     <h1><b>IT COMPANY <b></h1>
-
 <img src="map1.png" width="1000px" usemap="#MapNew" onmousemove="coordinate (event)"> <br>
 <MAP name="MapNew">
     <AREA shape="RECT" coords="730,270,880,310" href="https://eagletechitsolutions.com/" Title="Eagle Tech It Solutions Chennai">
