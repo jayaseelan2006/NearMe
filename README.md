@@ -25,7 +25,11 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
+<<<<<<< HEAD
 
+=======
+'''
+>>>>>>> 77c70ba1a8e6295176a90c28dc06f68b6064127a
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -52,12 +56,19 @@ Execute the programs and publish them.
 <body>
      
     <h1><b>IT COMPANY <b></h1>
+    
 <img src="map1.png" width="1000px" usemap="#MapNew" onmousemove="coordinate (event)"> <br>
+
 <MAP name="MapNew">
+    
     <AREA shape="RECT" coords="730,270,880,310" href="https://eagletechitsolutions.com/" Title="Eagle Tech It Solutions Chennai">
+    
     <AREA shape="RECT" coords="563,318,735,360" href="https://www.telliant.com/" Title="Telliant Systems India Private Limited">
+    
     <AREA shape="RECT" coords="567,136,730,182" href="https://htssindia.in/#/" Title="HI - Tech Company Software Solutions (Chennai) Pvt. Ltd.">
+    
     <AREA shape="RECT" coords="468,204,592,240" href="https://deforay.com/" Title="Deforay Technologies Private Limited">
+    
     <area shape="RECT" coords="387,81,531,125" href="https://www.excelanto.com/" title="Excelanto Cloud Systems Pvt Ltd">
 
 </MAP> 
@@ -66,6 +77,8 @@ Y Co-ordinate <input type="text" name="" id="text2">
 </MAP>
 </body>
 </html>
+
+``'
 
 ## OUTPUT
 ![alt text](map1.png)
