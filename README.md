@@ -25,6 +25,7 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
+'''
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -58,6 +59,7 @@ Execute the programs and publish them.
     <AREA shape="RECT" coords="567,136,730,182" href="https://htssindia.in/#/" Title="HI - Tech Company Software Solutions (Chennai) Pvt. Ltd.">
     <AREA shape="RECT" coords="468,204,592,240" href="https://deforay.com/" Title="Deforay Technologies Private Limited">
     <area shape="RECT" coords="387,81,531,125" href="https://www.excelanto.com/" title="Excelanto Cloud Systems Pvt Ltd">
+    '''
 
 </MAP> 
 X Co-ordinate <input type="text" name="" id="text1">
